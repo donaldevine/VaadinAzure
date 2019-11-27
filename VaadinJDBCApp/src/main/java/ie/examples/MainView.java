@@ -13,7 +13,6 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.html.Label;
-import com.vaadin.flow.component.notification.Notification;
 
 /**
  * The main view contains a button and a click listener.
